@@ -1,3 +1,4 @@
+import React, { useEffect } from "react";
 const AverageRating = ({ ratings }) => {
     const totalRating = ratings.reduce((sum, rating) => sum + rating.rate, 0);
     const averageRating = Math.round(totalRating / ratings.length);

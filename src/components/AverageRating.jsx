@@ -4,7 +4,7 @@ const AverageRating = ({ ratings }) => {
     const averageRating = Math.round(totalRating / ratings.length);
   
     const filledStars = '★'.repeat(averageRating);
-    const emptyStars = '☆'.repeat(6 - averageRating);
+    const emptyStars = '☆'.repeat(5 - averageRating);
   
     return (
       <div className="ratings__average">

@@ -1,0 +1,10 @@
+/* Styling for the filled stars (★) */
+.ratings__item span {
+  color: gold; /* Change the color to your preference */
+  font-size: 1.5rem; /* Adjust the size as needed */
+}
+
+/* Styling for the empty stars (☆) */
+.ratings__item span.empty {
+  color: #ccc; /* Change the color to a lighter shade */
+}

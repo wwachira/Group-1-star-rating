@@ -1,7 +1,5 @@
 # React + Vite
-<<<<<<< HEAD
-	https://group-1-star-rating.netlify.app
-=======
+
 `# Hosted
 https://group-1-star-rating.netlify.app
 

@@ -1,14 +1,4 @@
 # React + Vite
-	
-Hamida Mstafa
-9:09 AM
-
-
-
-
-
-
-
 `
 Create a system to display star ratings using React components.
 

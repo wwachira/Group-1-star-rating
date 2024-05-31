@@ -1,15 +1,5 @@
 # React + Vite
-	
-Hamida Mstafa
-9:09 AM
-
-
-
-
-
-
-
-`
+	https://group-1-star-rating.netlify.app
 Create a system to display star ratings using React components.
 
 Write a system to display star ratings using React components.

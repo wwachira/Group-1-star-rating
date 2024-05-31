@@ -2,6 +2,7 @@ import React from 'react';
 import Rating from './Rating';
 import AverageRating from './AverageRating';
 
+
 const RatingsList = ({ ratings }) => {
   return (
     <div className="ratings">

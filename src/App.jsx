@@ -1,4 +1,5 @@
 //rendered RatingList component with ratings data
+import React, { useEffect } from "react";
 import RatingsList from './components/RatingsList';
 import './App.css'
 

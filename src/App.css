@@ -6,5 +6,5 @@
 
 /* Styling for the empty stars (☆) */
 .ratings__item span.empty {
-  color: #ccc; /* Change the color to a lighter shade */
+  color: #c98686; /* Change the color to a lighter shade */
 }

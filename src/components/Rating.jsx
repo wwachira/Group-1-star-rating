@@ -18,7 +18,7 @@
           <span key={index}>{star}</span>
         ))}
         {emptyStars.split("").map((star, index) => (
-          <span key={5 + index} className="empty">
+          <span key={4 + index} className="empty">
             {star}
           </span>
           ))}

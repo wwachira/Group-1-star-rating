@@ -1,5 +1,11 @@
 # React + Vite
+<<<<<<< HEAD
 	https://group-1-star-rating.netlify.app
+=======
+`# Hosted
+https://group-1-star-rating.netlify.app
+
+>>>>>>> 624dc368015c55ba0810a2910d5d533ad6650916
 Create a system to display star ratings using React components.
 
 Write a system to display star ratings using React components.
